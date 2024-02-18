@@ -1,5 +1,5 @@
 # router-scan-windows
-Router Scan in Windows
+Router Scan in Windows v2.60
 
 [+} Portuguese
 É capaz de encontrar e identificar vários dispositivos de um grande número de roteadores conhecidos, e o mais importante, extrair deles informações úteis, em particular as características da rede sem fio: o método de proteção do ponto de acesso (criptografia), o acesso nome do ponto (SSID) e a chave do ponto de acesso (senha). Também recebe informações sobre Conexão WAN (conveniente ao digitalizar uma rede local) e exibe a marca e modelo do roteador. A informação é obtida de duas maneiras possíveis: o programa tentará adivinhar o par login/senha do roteador a partir da lista de senhas padrão, e como resultado obterá acesso. Ou vulnerabilidades não destrutivas, exploits (ou bugs) para um modelo específico de roteador serão usadas para obter as informações necessárias e/ou contornar o processo de autorização, para utilizar esse sistema você deve estar no Sustena Windows em versões mais atuais possíveis, ele é um executavel (.exe).
